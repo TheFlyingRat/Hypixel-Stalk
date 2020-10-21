@@ -1,7 +1,7 @@
 # Hypixel-Stalk
 Stalk a player - Get their whereabouts (beta) on the Hypixel server!
 
-Call the file by using "<filename> <api key> <ign>"
+Provide api key and player ign e.g    "**stats.py 12345-qwerty-64r3geydwhu TheFlyingRatYT**"
    
    - get api key by doing '/api new' on the hypixel server
    
